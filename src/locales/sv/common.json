@@ -1,0 +1,11 @@
+{
+  "nav_menu": {
+    "about": "Om Oss",
+    "blog": "Blog",
+    "careers": "Karriärer",
+    "contact": "Kontakta"
+  },
+  "buttons": {
+    "cta": "Begär inbjudan"
+  }
+}

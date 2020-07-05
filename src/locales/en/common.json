@@ -1,0 +1,11 @@
+{
+  "nav_menu": {
+    "about": "About Us",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "cta": "Request Invite"
+  }
+}

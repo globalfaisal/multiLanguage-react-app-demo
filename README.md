@@ -1,2 +1,9 @@
-# multiLanguage-react-app-demo
-Created with CodeSandbox
+# react-i18n-tryout
+
+react multi-language app 🌏
+
+## Tech
+
+- React (Hooks)
+- React-i18next
+- i18next
